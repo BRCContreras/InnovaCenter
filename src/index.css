@@ -1,0 +1,25 @@
+@import './Styles/styles.css';
+root {
+    --principal: #1f0d81;
+    --yellow: #e6bd08;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, "Roboto", BlinkMacSystemFont, "Segoe UI", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+.content {
+    min-height: 73vh;
+    margin-top: 9vh;
+}

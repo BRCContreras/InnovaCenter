@@ -1,0 +1,69 @@
+.innovaCss {
+  width: 100% !important;
+  max-width: 110px !important;
+  height: auto !important;
+}
+
+.responsiveImg {
+  width: 100%;
+  max-width: 35%;
+  height: auto;
+}
+
+.bg-innova {
+  background-color: #1f0d81;
+}
+
+/* nav {
+    background-color: #e6bd08 !important;
+  } */
+
+input,
+select {
+  border-radius: 25px !important;
+}
+
+div .fa {
+  position: absolute;
+  color: #2ecc71;
+  left: 36px;
+  padding: 10px;
+  pointer-events: none;
+}
+
+.bg-form-innova {
+  background-color: #f7f8fa;
+  border-radius: 25px;
+}
+
+.xyz {
+  border-radius: 25px;
+}
+
+.colorForm {
+  background-color: #48508e;
+}
+
+.valError {
+  color: red !important;
+  border: 3px solid #bb2929 !important;
+}
+
+.valSuccess {
+  border: 3px solid #2ecc71 !important;
+}
+
+.bg-negro {
+  background-color: #1e272e;
+}
+
+.bg-gris {
+  background-color: #485460 !important;
+}
+
+.wave {
+  position: relative;
+  top: 0;
+  right: 0;
+  width: 100%;
+}

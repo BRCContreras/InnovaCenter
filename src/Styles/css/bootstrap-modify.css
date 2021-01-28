@@ -1,0 +1,39 @@
+.dropdown-item {
+    color: #212529!important;
+}
+
+.nav-link {
+    color: white;
+}
+
+.linkButton {
+    color: #1f0d81!important;
+}
+
+.card,
+.modal-content {
+    margin: 0 auto;
+    max-width: 600px !important;
+    border-radius: 30px;
+    background-color: #cfd8dc;
+    margin-bottom: 3em;
+}
+
+.card-image-details {
+    width: 80%;
+    height: 80%;
+}
+
+.card-image {
+    width: 50%;
+    height: 50%;
+}
+
+.circle-image {
+    width: 15rem;
+    height: 15rem;
+}
+
+.landing .row {
+    padding: 5% 0;
+}
